@@ -1,53 +1,35 @@
-# ELIXR
+# LOVT
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/badge/REPO__SIZE-8.8%20MBs-%234de6f7?style=for-the-badge)
-![GitHub language count](https://img.shields.io/badge/LANGUAGE__COUNT-1-%234de6f7?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/badge/size-2.5%20MBS-blue?style=for-the-badge)
+![GitHub language count](https://img.shields.io/badge/LANGUAGE__COUNT-1-blue?style=for-the-badge)
 
-<img src="media/photos/1.png" alt="Home">
+<img src="media/photos/home.png" alt="Home">
 
-> Projeto desenvolvido através de uma videoaula.
+> Projeto desenvolvido no curso da Digital House Brasil.
 
 ## 📝 Descrição
-Este é um projeto desenvolvido em ReactJS. Utilizado como uma forma de estudar tal tecnologia. 
+Este é um projeto desenvolvido somente com HTML e CSS, feito no curso de Desenvolvimento Web Full Stack da Digital House Brasil.
 
 ## 📷 Fotos
 
-<img src="media/photos/1.png" alt="exemplo imagem">
 > Parte inicial da homepage.
+<img src="media/photos/home.png" alt="exemplo imagem">
 
+> 1ª Section
+<img src="media/photos/1.png" alt="exemplo imagem">
+
+> 2ª Section
 <img src="media/photos/2.png" alt="exemplo imagem">
-> Área de informações
 
-<img src="media/photos/3.png" alt="exemplo imagem">
-> Área de informações
-
-<img src="media/photos/4.png" alt="exemplo imagem">
 > Rodapé do site
+<img src="media/photos/3.png" alt="exemplo imagem">
 
 
 ## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `node e npm`
-## 🚀 Instalando ELIXR
-
-Para instalar o ELIXR, siga estas etapas:
-
-```
-npm install
-```
-
-## ☕ Usando ELIXR
-
-Para usar ELIXR, siga estas etapas:
-
-```
-yarn start
-```
+* Esse projeto não necessita de nenhuma aplicação externa. :) 
 
 ## 🤝 Colaboradores
 
