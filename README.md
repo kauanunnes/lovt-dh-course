@@ -39,7 +39,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/62390986?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/62390986?v=4" width="100px;" alt="Foto do Kauã no GITHUB"/><br>
         <sub>
           <b>Kauã Nunes</b>
         </sub>
