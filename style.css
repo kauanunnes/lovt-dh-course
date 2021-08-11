@@ -37,6 +37,19 @@ header.cabecalho div.logo img {
   height: 25px;
 }
 
+button.btn-menu {
+  background: none;
+  border: none;
+  cursor: pointer;
+
+  transition-duration: 0.3s;
+}
+
+button.btn-menu:hover {
+  transform: scale(1.1);
+}
+
+
 main.container {
   width: 100%;
 
@@ -99,7 +112,8 @@ section div.grade div.item div.infoGrade {
   gap: 10px;
 
   padding: 10px 15px;
-  color: rgba(85, 85, 85, 1);
+  
+  color: rgba(136, 136, 136, 1);
   text-align: justify;
 }
 
@@ -132,12 +146,21 @@ section.yourStyle h1 {
 section.yourStyle div.styleItems {
   height: 120px;
   width: 90%;
+  
   background: rgba(196, 196, 196, 0.5);
+  
   display: flex;
   align-items: center;
   justify-content: center;
+  
   color: #FFF;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+
+  transition-duration: 0.3s;
+}
+
+section.yourStyle div.styleItems:hover > div.filter {
+  opacity: 0;
 }
 
 section.yourStyle div#industrial {
@@ -166,6 +189,9 @@ section.yourStyle div.filter {
   width: 90%;
   height: 120px;
   background: rgba(196, 196, 196, 0.33);
+  transition-duration: 0.3s;
+
+  cursor: pointer;
 
 }
 
@@ -212,3 +238,36 @@ div.footerItems div.icons {
   cursor: pointer;
 }
 
+span.btn-label {
+  position: absolute;
+  
+  font-size: 14pt;
+  
+  margin-left: 23.2%;
+  padding: 5px;
+  
+  border-radius: 15px;
+
+  width: 60px;
+
+  text-align: center;
+
+  color: #FFF;
+
+  cursor: pointer;
+
+  transition-duration: .3s;
+}
+
+span.btn-label:hover {
+  transform: scale(1.05);
+}
+
+span#btn-green {
+  background: rgba(81, 210, 117, 1);
+
+}
+
+span#btn-yellow {
+  background: rgba(220, 151, 48, 1);
+}
